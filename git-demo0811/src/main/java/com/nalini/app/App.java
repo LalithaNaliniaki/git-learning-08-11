@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "2nd day for GIT learning" );
+        SYstem.out.println( "changed on the server" );
     }
 }
